@@ -90,3 +90,10 @@ exports.default = defaultTask
 ```js
 gulp
 ```
+თუ დაგიწერათ:
+```js
+[00:54:10] Using gulpfile ~/Desktop/gulp project/gulpfile.js
+[00:54:10] Starting 'default'...
+[00:54:10] Finished 'default' after 1.18 ms
+```
+ესეიგი წარმატებით დააყენეთ გალპი!
