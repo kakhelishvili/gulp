@@ -15,7 +15,7 @@
 
 **უნდა გქონდეთ უკვე დაყენებული:**
 - node.js
-  - ([როგორ დავაყენოთ node.js?](coming.soon))
+  - ([როგორ დავაყენოთ node.js?](https://github.com/kakhelishvili/node-js/))
 - ჩაიწერეთ გამზადებული ფოლდერი [ქლაუდიდან](https://mega.nz/folder/EVhT0Aqa#WUDuXxwJCwRxR1k5Ct42Ow)
 
 ## ინსტრუქცია
